@@ -54,3 +54,13 @@ psql -h localhost -p 5434 -U portfolio -d ecommerce -f analytics.sql
 
 `CTE` `Window Functions` `LAG()` `DATE_TRUNC()` `FILTER`
 `CASE` `GROUP BY` `JOIN` `SUM` `COUNT` `AVG`
+
+## Project Output
+
+The project generates analytical reports including:
+
+- Monthly revenue trends
+- Revenue by product category
+- Customer cohort retention analysis
+
+![SQL Query Results](photo_5391016059608963917_w.jpg)
