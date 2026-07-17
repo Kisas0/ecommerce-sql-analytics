@@ -63,4 +63,4 @@ The project generates analytical reports including:
 - Revenue by product category
 - Customer cohort retention analysis
 
-![SQL Query Results](photo_5391016059608963917_w.jpg)
+![SQL Query Results](photo_5391333517821681258_w.jpg)
